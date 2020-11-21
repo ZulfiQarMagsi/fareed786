@@ -79,12 +79,12 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;m""
+print  """\033[1;m
 \033[1;96mName\033[1;93m: \033[1;92mZulfiQar/KinG
 \033[1;96mCast \033[1;93m: \033[1;92mADMANI
 \033[1;96mwhatsapp/Number  \033[1;93m: \033[1;92m03340002925
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ZulfiQarKinG
-\033[1;91m""
+\033[1;91m
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "Fareed"
